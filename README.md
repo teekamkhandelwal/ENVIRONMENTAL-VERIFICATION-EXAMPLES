@@ -12,3 +12,12 @@
 # waveform
 
 ![image](https://user-images.githubusercontent.com/72481400/116790087-22481180-aad0-11eb-9afe-58a39ba3bfbc.png)
+
+
+
+# Dflip -flop 
+
+# simulation 
+
+
+
