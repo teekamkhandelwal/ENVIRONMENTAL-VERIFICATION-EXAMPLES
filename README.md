@@ -1,3 +1,5 @@
+first file in sim and rtl folder is mux  and inside the other folder is d-flip flop
+
 # 2X1_mux_verifcation_using_system_verilog
 2x1 mux is verification is done using system verilog. For verification of mux all component are designed and simulated .
 # rtl design -verilog 
@@ -18,6 +20,10 @@
 # Dflip -flop 
 
 # simulation 
+
+
+![image](https://user-images.githubusercontent.com/72481400/117527814-564d9600-afec-11eb-95da-e81790682c88.png)
+
 
 
 
